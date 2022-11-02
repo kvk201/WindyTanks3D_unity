@@ -1,0 +1,11 @@
+GameBackground : https://www.ashamaluevmusic.com/ambient-music 
+
+MenuBackground : https://www.youtube.com/watch?v=Rm-2gKAvnZY
+
+LoadingBackground : http://soundbible.com/2124-45min-April-Rainstorm.html
+
+MenuClick : http://soundbible.com/349-Zippo-Lighter-Click.html
+
+cannonfire : http://soundbible.com/909-Cannon.html
+
+GameBack(no copyright) : https://www.youtube.com/watch?v=fh-o8Bxc3Ys
